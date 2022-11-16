@@ -1,0 +1,8 @@
+.common__section{
+    background: linear-gradient( rgba (0,0,0,0.562), #000), (rgba(0, 0, 0, 0.562));
+    background-size: contain;
+}
+.common__section h1{
+    color: #fff;
+    font-weight: 600;
+}
