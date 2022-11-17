@@ -1,8 +1,33 @@
-.common__section{
-    background: linear-gradient( rgba (0,0,0,0.562), #000), (rgba(0, 0, 0, 0.562));
-    background-size: contain;
+/*.common__section{
+    background-color: var( --hero-bg);
+     
+    padding: 100px 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 .common__section h1{
     color: #fff;
     font-weight: 600;
+    font-size: 20px;
+}*/
+.common__section{
+    padding: 0px 0px 60px 0px;
 }
+.section-intro {
+    height: 300px;
+    background: linear-gradient(#00000031, rgba(0, 0, 0, 0.397)),
+      url('../assets/images/bedroom.jpg') no-repeat  ;
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-attachment: fixed;
+  }
+  .section-intro-title {
+    font-size: 3em;
+    color:  var(--primary-color);
+    position: relative;
+    padding-top: 30px;
+  }

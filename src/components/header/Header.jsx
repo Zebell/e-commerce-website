@@ -1,11 +1,9 @@
 import React, { useRef, useEffect } from "react"
 import { NavLink } from "react-router-dom"
 import "./header.css"
+ 
 
-import { motion } from "framer-motion"
 
-import logo from "../../assets/images/eco-logo.png"
-import userIcon from "../../assets/images/user-icon.png"
 
 import { Container, Row } from "reactstrap"
 import { useSelector } from "react-redux";
