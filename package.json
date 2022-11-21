@@ -2,7 +2,7 @@
   "name": "market-react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://zebell.github.io/shoes-shop/",
+  "homepage": "https://zebell.github.io/e-commerce-website/home",
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.0",
     "@testing-library/jest-dom": "^5.16.5",
