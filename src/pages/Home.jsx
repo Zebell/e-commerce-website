@@ -40,7 +40,7 @@ const Home = () => {
   },[])
 
   return (
-    <div>
+    <div >
       <Helmet title={'Home'}>
 
         {/* hero */}
@@ -90,7 +90,7 @@ const Home = () => {
         {/* best sales */}
         <section className="best__sales">
           <Container>
-            <Row>
+            <Row >
                 <Col lg='12' className="text-center">
                   <h2 className="section__title">Best Sales</h2>
                 </Col>
